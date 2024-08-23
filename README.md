@@ -2,11 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; Currently honing my skils in Ethical Hacking and Network Security.
-- 🎓 &nbsp; Studying Computer Science at Aga Khan Higher Secondary Gilgit.
-- 💼 &nbsp; Working as CEO and Founder of Tech Startup "Offline Out".
-- 🌱 &nbsp; Learning more about Python, C++ and Web Developement.
-- ✍️ &nbsp; Pursuing Graphic Design and Video Editing as hobbies/side hustles.
+- 🔭 &nbsp; Currently honing my skils in Cyber Security & Ethical Hacking.
+- 🎓 &nbsp; Alumnus of Aga Khan Higher Secondary School, Gilgit.
+- 💼 &nbsp; Working as Founder of SMMA "Pixalance".
+- 🌱 &nbsp; Coding in C++, Python & JavaScript.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
