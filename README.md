@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; Currently honing my skils in Cyber Security & Ethical Hacking.
 - 🎓 &nbsp; Alumnus of Aga Khan Higher Secondary School, Gilgit.
-- 💼 &nbsp; Working as Founder of SMMA "Pixalance".
+- 💼 &nbsp; Seeking Job Oppurtunities.
 - 🌱 &nbsp; Coding in C++, Python & JavaScript.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
