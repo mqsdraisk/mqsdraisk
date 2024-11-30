@@ -2,17 +2,16 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; Currently honing my skils in Cyber Security & Ethical Hacking.
+- 🔭 &nbsp; google Certified Cyber Security Analyst.
 - 🎓 &nbsp; Alumnus of Aga Khan Higher Secondary School, Gilgit.
 - 💼 &nbsp; Seeking Job Oppurtunities.
-- 🌱 &nbsp; Coding in C++, Python & JavaScript.
+- 🌱 &nbsp; Helping people to keep their data safe.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
 - ⚙️ &nbsp;
