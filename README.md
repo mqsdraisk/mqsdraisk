@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; google Certified Cyber Security Analyst.
+- 🔭 &nbsp; Google Certified Cyber Security Analyst.
 - 🎓 &nbsp; Alumnus of Aga Khan Higher Secondary School, Gilgit.
 - 💼 &nbsp; Seeking Job Oppurtunities.
 - 🌱 &nbsp; Helping people to keep their data safe.
