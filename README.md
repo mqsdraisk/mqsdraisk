@@ -38,5 +38,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mqsdraisk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maqsood%20Rais-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.github.com/mqsdraisk/"><img alt="Github" src="https://img.shields.io/badge/Github-Maqsood%20Rais-blue?style=flat-square&logo=Github"></a>
-<a href="mailto:dev.maqsoodraisk.protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.maqsoodraisk@protonmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:dev.maqsoodraisk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.maqsoodraisk@protonmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
